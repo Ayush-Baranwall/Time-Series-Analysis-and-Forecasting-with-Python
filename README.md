@@ -2,7 +2,7 @@
 Time Series Analysis and Forecasting
 
 This repository contains code for performing time series analysis and forecasting on a sales dataset. The code is written in Python and utilizes various libraries for data manipulation, visualization, and time series modeling.
-Code Explanation
+
 
  1: Importing Libraries: The necessary libraries such as warnings, itertools, numpy, matplotlib, pandas, and statsmodels are imported to provide required functionalities.
 
